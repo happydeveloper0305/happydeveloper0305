@@ -1,17 +1,9 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/happydeveloper0305/happydeveloper0305/blob/master/Assets/Earth.gif" width="24">
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/happydeveloper0305/happydeveloper0305/blob/master/Assets/Earth.gif" width="24">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=happydeveloper0305&label=Profile%20views&color=0e75b6&style=flat" alt="happydeveloper0305" /> </p>
+## 🧾 Summary
 
-<details>
-  <summary> Github profile trophy and github Metrices</summary>
-  
-  ![Metrics](https://metrics.lecoq.io/happydeveloper0305?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&lines=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FKolkata)
-  
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happydeveloper0305" alt="happydeveloper0305" /></a> </p>
-  
-  </details>
-
- <img align="right" alt="GIF" src="https://github.com/happydeveloper0305/happydeveloper0305/blob/master/code.gif" width="500" height="320" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=happydeveloper0305&label=Profile%20views&color=0e75b6&style=flat" alt="happydeveloper0305" /> </p>
+<img align="right" alt="GIF" src="https://github.com/happydeveloper0305/happydeveloper0305/blob/master/code.gif" width="500" height="320" />
 With 9+ years of experience, I have a knack for bridging frontend innovation with robust backend solutions. Specializing in React, Next.js, Node.js, Ruby on Rails, and Python, I build seamless, scalable applications that enhance user experiences. I'm passionate about integrating cutting-edge AI technologies to drive digital transformation.
 
 I have a strong understanding of the software development life cycle and have worked on projects ranging from simple websites to complex web applications. I am always striving to stay up-to-date with the latest technologies and industry trends, and I am dedicated to delivering high-quality solutions to my clients.
@@ -59,6 +51,8 @@ I'm a committed team player and adaptable professional, thriving in both indepen
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+## 🚩Contribution
+
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/happydeveloper0305/happydeveloper0305/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌐 Socials
@@ -68,3 +62,7 @@ I'm a committed team player and adaptable professional, thriving in both indepen
 [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=30A0E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/brightman0808)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/brightman#0808)
 [![Whatsapp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+380983123414)
+
+## 🥇 Metrices
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happydeveloper0305" alt="happydeveloper0305" /></a></p>
