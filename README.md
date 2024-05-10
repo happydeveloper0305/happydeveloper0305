@@ -1,4 +1,4 @@
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/happydeveloper0305/happydeveloper0305/blob/master/Assets/Earth.gif" width="24">
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/happydeveloper0305/happydeveloper0305/blob/main/Earth.gif" width="24">
 
 <hr />
 
@@ -8,7 +8,7 @@
 
 <hr />
 
-<img align="right" alt="GIF" src="https://github.com/happydeveloper0305/happydeveloper0305/blob/master/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/happydeveloper0305/happydeveloper0305/blob/main/code.gif" width="500" height="320" />
 With 9+ years of experience, I have a knack for bridging frontend innovation with robust backend solutions. Specializing in React, Next.js, Node.js, Ruby on Rails, and Python, I build seamless, scalable applications that enhance user experiences. I'm passionate about integrating cutting-edge AI technologies to drive digital transformation.
 
 I have a strong understanding of the software development life cycle and have worked on projects ranging from simple websites to complex web applications. I am always striving to stay up-to-date with the latest technologies and industry trends, and I am dedicated to delivering high-quality solutions to my clients.
